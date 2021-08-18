@@ -5,8 +5,8 @@
 #include <algorithm>
 using namespace std;
 //Defining some constants
-#define SOCHANGA 2
-#define SOCHANCHO 4
+const int SOCHANGA 2;
+const int SOCHANCHO 4;
 
 int main()
 {
