@@ -2,7 +2,6 @@
 #include <iomanip>
 #include <cmath>
 #include <string>
-#include <algorithm>
 using namespace std;
 //Defining some constants
 const int sochan1ga = 2;
