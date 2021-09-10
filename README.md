@@ -1,2 +1,2 @@
 # legendary_problems
-#Some famous problems solved by code, from Boss Perry
+Some famous simple problems solved by code, from Boss Perry
